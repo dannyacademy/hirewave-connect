@@ -4,7 +4,7 @@
   "installCommand": "npm install",
   "functions": {
     "dist/server/server.js": {
-      "runtime": "node@20.x"
+      "runtime": "nodejs20.x"
     }
   },
   "routes": [
